@@ -8,7 +8,7 @@
 ## **👥 Integrantes do Grupo**  
 - [Anny Jhulia Cerazi](#)
 - [Jaime Almeida](#)
-- [Pietro Alckmin](#)
+- [Pietro Alkmin](#)
 - [Sara Sbardelotto](#)
 
 ---
