@@ -10,11 +10,16 @@
 - [Jaime Almeida](#)
 - [Pietro Alkmin](#)
 - [Sara Sbardelotto](#)
+- [Bruno Kadayak](#)
 
 ---
 
 ## **📄 Descrição do Projeto**  
 > _[Descreva aqui o propósito, objetivos e funcionalidades do projeto. Inclua detalhes importantes e o impacto que ele busca causar.]_
+> Propósito:
+> Objetivos:
+> Funcionalidades:
+> Impacto:
 
 ---
 
