@@ -7,7 +7,7 @@
 
 ## **👥 Integrantes do Grupo**  
 - [Anny Jhulia Cerazi](#)
-- [Bruno Kadayak](#)
+- [Bruno Kadayan](#)
 - [Jaime Almeida](#)
 - [Pietro Alkmin](#)
 - [Sara Sbardelotto](#)
