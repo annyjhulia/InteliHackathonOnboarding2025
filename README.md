@@ -15,30 +15,23 @@
 ---
 
 ## **📄 Descrição do Projeto**  
-- Propósito:
-- Objetivos:
-- Funcionalidades:
-- Impacto:
+- Propósito: ajudar líderes empresariais a conhecer melhor suas equipes e considerar possibilidades de delegação de funções em projetos.
+- Objetivos: auxiliar líderes na delegação de tarefas da equipe, otimizando tempo e recursos.
+- Funcionalidades: reconhecer características e associá-las a diferentes cargos e funções, utilizando desses fatores para dividir a equipe.
+- Impacto: permitir que o líder divida os membros da equipe em tarefas em que sejam especializados e que se identifiquem mais considerando suas habilidades (soft e hard skills), de maneira a otimizar a realização de projetos e promover o bem-estar geral.
+
 
 ---
 
 ## **🤖 Instruções do GPT** 
-Para a utilização da LIA, é necessário descrever rapidamente o projeto no qual seus colaboradores irão participar e, então, descrever brevemente as soft e hard skills da pessoa que deseja alocar em seu projeto. A LIA, então encontrará a combinação perfeita de posição para essa pessoa dentro das funções possíveis, 
-
-1. ✅ Certifique-se de usar **linguagem clara e objetiva** ao descrever problemas ou requisitos.  
-2. 🛠️ Estruture as perguntas e comandos de forma lógica para facilitar o entendimento.  
-3. 🔍 Sempre especifique os detalhes relevantes ao contexto do projeto.  
-4. 🎯 Adapte as interações conforme necessário, mantendo foco nos temas definidos abaixo.  
+Para a utilização da LIA, é necessário descrever rapidamente o projeto no qual seus colaboradores irão participar e, então, descrever brevemente as soft e hard skills da pessoa que deseja alocar em seu projeto. A LIA, então encontrará a combinação perfeita de posição para essa pessoa dentro das funções possíveis, levando em conta as características fornecidas cruzadas com as necessárias.
 
 ---
 
 ## **💡 Temas da Conversa** 
-> _[Liste aqui alguns possíveis temas que o agente pode conversar.]_
-- 🛠️ **Tema 1:** Descrição breve do tema  
-- 🌐 **Tema 2:** Descrição breve do tema  
-- 🔒 **Tema 3:** Descrição breve do tema  
-- 📊 **Tema 4:** Descrição breve do tema  
-
+- 🛠️ **Delegação de funções:** A LIA pode conversar sobre onde alocar membro de seu time para que projetos sejam mais eficientes.  
+- 🌐 **Resolução de impasses:** De acordo com seu banco de dados, a LIA é capaz de organizar as pessoas quando ocorrem interferências nas funções.
+  
 ---
 
 ## **📚 Bases de Conhecimento**  
@@ -60,7 +53,7 @@ Para a utilização da LIA, é necessário descrever rapidamente o projeto no qu
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
 ### **📘 Principais Referências Utilizadas:**  
-- 🔗 _[Nome ou link da base de conhecimento 1]_  
+- 📗 _[Nome ou link da base de conhecimento 1]_  
 - 📙 _[Nome ou link da base de conhecimento 2]_  
 - 📕 _[Nome ou link da base de conhecimento 3]_  
 
