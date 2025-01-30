@@ -6,12 +6,13 @@
 ---
 
 ## **👥 Integrantes do Grupo**  
-- [Anny Jhulia Cerazi](#)
-- [Bruno Kadayan](#)
-- [Jaime Almeida](#)
-- [Pietro Alkmin](#)
-- [Sara Sbardelotto](#)
-  
+
+- <a href="https://github.com/annyjhulia" >Anny Jhulia Cerazi</a>
+- <a href="https://github.com/Kadayann" >Bruno Kadayan</a>
+- <a href="https://github.com/jjalmeidadev" >Jaime Almeida</a>
+- <a href="https://github.com/PietroAlkmin" >Pietro Alkmin</a>
+- <a href="https://github.com/sarafarencena" >Sara Sbardelotto</a>
+
 ---
 
 ## **📄 Descrição do Projeto**  
@@ -53,6 +54,14 @@ Para a utilização da LIA, é necessário descrever rapidamente o projeto no qu
 - 📗 <a href="https://github.com/annyjhulia/InteliHackathonOnboarding2025/blob/main/prompts" >Prompts</a>
 
 ### **📘Referências Utilizadas:**  
+
+- <a href="https://www.inteli.edu.br/" >Inteli</a>
+- <a href="https://hbr.org/2023/12/8-essential-qualities-of-successful-leaders" >8 Essential Qualities of Successful Leaders</a>
+- <a href="https://www.cesarritzcolleges.edu/en/news/how-to-be-a-leader/" >How to Be a Leader - Essential Tips for Effective Leadership</a>
+- <a href="https://www.cmich.edu/blog/all-things-higher-ed/what-is-a-good-leader" >What is a good leader? Seven ways to know you're on the right track</a>
+- <a href="https://chatgpt.com/share/6799324c-f884-800b-a84d-1befd69301d9" >Training a ChatGPT agent</a>
+- <a href="https://chatgpt.com/share/679a78ec-b32c-800b-b67d-c9068cc1b214" >Aspectos para delegar funções</a>
+- <a href="https://chatgpt.com/share/e/679adfd2-2160-8002-b71b-f14a5a72180a" >Skills por área</a>
 - <a href="https://investidor10.com.br/conteudo/andre-santos-esteves-conheca-a-trajetoria-do-empresario-e-banqueiro-103774/?utm_source=chatgpt.com" >André Santos Esteves: conheça a trajetória do empresário e banqueiro</a>
 - <a href="https://www.napratica.org.br/roberto-sallouti-mercado-financeiro/?utm_source=chatgpt.com" >Roberto Sallouti: “Não existe ‘bala de prata’ para ir bem no mercado financeiro”</a>
 - <a href="https://fourweekmba.com/pt/estilo-de-lideran%C3%A7a-de-steve-jobs/?utm_source=chatgpt.com" >Estilo de liderança de Steve Jobs</a>
@@ -63,15 +72,13 @@ Para a utilização da LIA, é necessário descrever rapidamente o projeto no qu
 - <a href="https://exame.com/tecnologia/tania-cosentino-deixa-comando-da-microsoft-brasil-priscyla-laham-assume-o-posto/?utm_source=chatgpt.com" >Tânia Cosentino deixa comando da Microsoft Brasil; Priscyla Laham assume o posto</a>
 - <a href="https://epocanegocios.globo.com/empresas/noticia/2024/12/mudanca-no-comando-da-microsoft-brasil-priscyla-laham-e-nomeada-presidente-e-tania-cosentino-assume-nova-posicao-na-america-latina.ghtml?utm_source=chatgpt.com" >Mudança no comando da Microsoft Brasil: Priscyla Laham é nomeada presidente e Tania Cosentino assume nova posição na América Latina </a>
 - <a href="https://www.infomoney.com.br/perfil/jorge-paulo-lemann/" >Jorge Paulo Lemann: o sonhador que criou um império </a>
-- <a href="link" >nome</a>
-- <a href="link" >nome</a>
-- <a href="link" >nome</a>
-- <a href="link" >nome</a>
-- <a href="link" >nome</a>
-- <a href="link" >nome</a>
-- <a href="link" >nome</a>
-- <a href="link" >nome</a>
-- <a href="link" >nome</a>
-- <a href="link" >nome</a>
-- <a href="link" >nome</a>
-- <a href="link" >nome</a>
+- <a href="https://revistagalileu.globo.com/sociedade/historia/noticia/2022/12/grace-hopper-quem-foi-a-matematica-que-revolucionou-a-programacao.ghtml?utm_source=chatgpt.com" >Grace Hopper: quem foi a matemática que revolucionou a programação</a>
+- <a href="https://www.terra.com.br/diversao/quem-e-o-filosofo-clovis-de-barros-filho%2C334003aaf6e21c801822b9267e8820d3813j7xrc.html?utm_source=chatgpt.com" >Quem é o filósofo Clóvis de Barros Filho?</a>
+- <a href="https://www.infomoney.com.br/perfil/bill-gates/" >Bill Gates: de prodígio da informática a bilionário que quer mudar o mundo</a>
+- <a href="https://www.napratica.org.br/licoes-de-lideranca-de-nelson-mandela/" >3 lições de liderança de Nelson Mandela</a>
+- <a href="https://ohquemfala.com.br/blog/o-que-voce-pode-aprender-com-estes-grandes-oradores/?utm_source=chatgpt.com" >Grandes oradores da história: aprenda com eles</a>
+- <a href="https://www.clubedafala.com.br/blog/grandes-oradores/?utm_source=chatgpt.com" >4 lições que você pode aprender com grandes oradores</a>
+- <a href="https://institucional.ifood.com.br/noticias/novo-presidente-do-ifood/" >Quem é o novo presidente do iFood? Conheça seu perfil</a>
+- <a href="https://sebrae.ms/empreendedorismo/dicas-de-empreendedorismo-licoes-de-inovacao-e-gestao-com-cris-arcangeli/?utm_source=chatgpt.com" >Dicas de empreendedorismo: lições de inovação e gestão com Cris Arcangeli</a>
+- <a href="https://uoledtech.com.br/professor/ronaldo-lemos?utm_source=chatgpt.com" >Ronaldo Lemos</a>
+- <a href="https://gabinetecompartilhado.com/deputada-tabata-amaral/?utm_source=chatgpt.com" >Deputada Tabata Amaral - Gabinete Compartilhado</a>
