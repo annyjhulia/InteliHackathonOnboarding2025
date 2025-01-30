@@ -61,8 +61,8 @@ Para a utilização da LIA, é necessário descrever rapidamente o projeto no qu
 - <a href="https://epocanegocios.globo.com/tudo-sobre/noticia/2023/08/quem-e-jensen-huang-o-bilionario-ceo-da-nvidia.ghtml?utm_source=chatgpt.com" >Quem é Jensen Huang, o bilionário CEO da Nvidia </a>
 - <a href="https://investnews.com.br/negocios/o-executivo-que-trouxe-a-dell-para-o-brasil-e-virou-ceo-da-empresa-apos-23-anos/" >O executivo que trouxe a Dell para o Brasil e virou CEO da empresa após 23 anos</a>
 - <a href="https://exame.com/tecnologia/tania-cosentino-deixa-comando-da-microsoft-brasil-priscyla-laham-assume-o-posto/?utm_source=chatgpt.com" >Tânia Cosentino deixa comando da Microsoft Brasil; Priscyla Laham assume o posto</a>
-- <a href="link" >nome</a>
-- <a href="link" >nome</a>
+- <a href="https://epocanegocios.globo.com/empresas/noticia/2024/12/mudanca-no-comando-da-microsoft-brasil-priscyla-laham-e-nomeada-presidente-e-tania-cosentino-assume-nova-posicao-na-america-latina.ghtml?utm_source=chatgpt.com" >Mudança no comando da Microsoft Brasil: Priscyla Laham é nomeada presidente e Tania Cosentino assume nova posição na América Latina </a>
+- <a href="https://www.infomoney.com.br/perfil/jorge-paulo-lemann/" >Jorge Paulo Lemann: o sonhador que criou um império </a>
 - <a href="link" >nome</a>
 - <a href="link" >nome</a>
 - <a href="link" >nome</a>
