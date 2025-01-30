@@ -7,11 +7,11 @@
 
 ## **👥 Integrantes do Grupo**  
 - [Anny Jhulia Cerazi](#)
+- [Bruno Kadayak](#)
 - [Jaime Almeida](#)
 - [Pietro Alkmin](#)
 - [Sara Sbardelotto](#)
-- [Bruno Kadayak](#)
-
+  
 ---
 
 ## **📄 Descrição do Projeto**  
