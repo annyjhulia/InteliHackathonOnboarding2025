@@ -1,7 +1,7 @@
 # **🚀 Nome do Projeto**
 
 ### **🔗 Link do Agente GPT:**  
-> _[L.I.A.]_
+> _LIA_
 
 ---
 
@@ -15,15 +15,16 @@
 ---
 
 ## **📄 Descrição do Projeto**  
-> Propósito:
-> Objetivos:
-> Funcionalidades:
-> Impacto:
+- Propósito:
+- Objetivos:
+- Funcionalidades:
+- Impacto:
 
 ---
 
 ## **🤖 Instruções do GPT** 
-> _[Descreva aqui algumas instruções básicas de uso do agente.]_
+Para a utilização da LIA, é necessário descrever rapidamente o projeto no qual seus colaboradores irão participar e, então, descrever brevemente as soft e hard skills da pessoa que deseja alocar em seu projeto. A LIA, então encontrará a combinação perfeita de posição para essa pessoa dentro das funções possíveis, 
+
 1. ✅ Certifique-se de usar **linguagem clara e objetiva** ao descrever problemas ou requisitos.  
 2. 🛠️ Estruture as perguntas e comandos de forma lógica para facilitar o entendimento.  
 3. 🔍 Sempre especifique os detalhes relevantes ao contexto do projeto.  
@@ -59,7 +60,7 @@
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
 ### **📘 Principais Referências Utilizadas:**  
-- 📗 _[Nome ou link da base de conhecimento 1]_  
+- 🔗 _[Nome ou link da base de conhecimento 1]_  
 - 📙 _[Nome ou link da base de conhecimento 2]_  
 - 📕 _[Nome ou link da base de conhecimento 3]_  
 
