@@ -50,7 +50,7 @@ Para a utilização da LIA, é necessário descrever rapidamente o projeto no qu
 - Gente de resultados - Eduardo Ferraz
 
 ### **⚠️ Prompts**
-- 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
+- 📗 <a href="https://github.com/annyjhulia/InteliHackathonOnboarding2025/prompts" >Prompts</a>
 
 ### **📘Referências Utilizadas:**  
 - <a href="https://investidor10.com.br/conteudo/andre-santos-esteves-conheca-a-trajetoria-do-empresario-e-banqueiro-103774/?utm_source=chatgpt.com" >André Santos Esteves: conheça a trajetória do empresário e banqueiro</a>
