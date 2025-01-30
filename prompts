@@ -1,10 +1,52 @@
-Prompt 1: Estou começando em um cargo como gerente no setor empresarial, englobando as áreas de design, negócios, programação, documentação e liderança, e gostaria de alocar o membros do meu time da melhor forma possível 
-para otimizar nossos resultados. Uma das pessoas na equipe é a Débora, ela se descreve como alguém que é mais eficiente trabalhando sozinha com atividades bem definidas, mas que ela também trabalha bem em equipe e que se as 
-coisas estiverem um pouco confusas consegue encontrar o caminho para direcioná-las de forma correta e objetiva, atividades repetitivas e analíticas são o forte dela, mas as que requerem criatividade ou certo aprofundamento 
-demora mais pois precisa pesquisar profundamente, além de demorar um pouco na entrega por buscar entregar o melhor e trabalha bem em equipe, por fim ela se define como uma pessoa da área de design. Considerando as 
-informações fornecidas, qual seria a melhor área de atuação para a Débora?
+Prompt 1: Estou começando em um cargo como gerente no setor empresarial, englobando as áreas de design, negócios, programação, documentação e liderança, e gostaria de alocar o membros do meu time da melhor forma possível para otimizar nossos resultados. Uma das pessoas na equipe é a Débora, ela se descreve como alguém que é mais eficiente trabalhando sozinha com atividades bem definidas, mas que ela também trabalha bem em equipe e que se as coisas estiverem um pouco confusas consegue encontrar o caminho para direcioná-las de forma correta e objetiva, atividades repetitivas e analíticas são o forte dela, mas as que requerem criatividade ou certo aprofundamento demora mais pois precisa pesquisar profundamente, além de demorar um pouco na entrega por buscar entregar o melhor e trabalha bem em equipe, por fim ela se define como uma pessoa da área de design. Considerando as informações fornecidas, qual seria a melhor área de atuação para a Débora?
 
-Prompt 2: prompts: Lista de Pessoas com Habilidades e Aspectos Negativos
+
+
+Prompt 2: Sou Jaime, recém-contratado como Gerente de Projetos no BTG, e fui designado para liderar a implementação de um novo sistema de análise de risco para investimentos institucionais.
+
+
+
+O problema? Não conheço bem minha equipe e tenho um prazo apertado de quatro meses para entregar um sistema funcional. O projeto é de alta prioridade, e a diretoria está monitorando de perto o progresso. Além disso, os membros da equipe têm personalidades e estilos de trabalho distintos, o que pode gerar conflitos se a delegação de tarefas não for bem estruturada.
+
+🔹 O Projeto
+Objetivo: Desenvolver um sistema interno de análise de risco automatizada para otimizar a tomada de decisões de investimento de clientes institucionais.
+Principais Funcionalidades:
+✅ Algoritmo de análise preditiva para avaliação de risco.
+✅ Interface intuitiva para gestores e analistas de investimentos.
+✅ Integração com bases de dados do mercado financeiro.
+✅ Relatórios automatizados sobre risco e retorno.
+
+Principais Desafios:
+⚠️ Prazos rígidos: entrega mínima em 4 meses.
+⚠️ Alto nível de complexidade técnica.
+⚠️ Equipe heterogênea, com diferentes perfis e resistências à mudança.
+
+🔹 Equipe Disponível
+Nome	Pontos Fortes	Áreas de Melhoria	Personalidade
+Rodrigo	Backend, Segurança de Dados, Automação	Comunicação, trabalho em equipe	Reservado, prefere trabalhar sozinho, foca na lógica
+Fernanda	UX/UI Design, Experiência do Usuário	Organização, prazos	Criativa, inovadora, mas dispersa com detalhes técnicos
+Gustavo	Desenvolvimento Frontend, Integração de APIs	Resistência a mudanças	Questionador, detalhista, cético quanto a novas abordagens
+Mariana	Gestão de Projetos, Documentação, Compliance	Falta de flexibilidade	Organizada, metódica, segue processos à risca
+Eduardo	Estratégia de Negócios, Análise Financeira	Falta de conhecimento técnico	Ambicioso, foca no impacto financeiro, boa articulação política
+🔹 Sua Missão
+Divida o problema nas cinco categorias fixas:
+
+Design → Criar uma interface intuitiva para os analistas e gestores usarem.
+Desenvolvimento Técnico → Criar o algoritmo de análise de risco, configurar o backend e integrar com bancos de dados.
+Documentação → Criar guias de uso, padrões de compliance e relatórios técnicos.
+Liderança → Definir processos, garantir alinhamento e remover obstáculos no time.
+Negócios → Validar a estratégia de uso do sistema e garantir que atende às necessidades dos clientes institucionais.
+Com base na equipe disponível, proponha a melhor distribuição de tarefas.
+
+Me pergunte se desejo revisar ou avançar para a delegação.
+
+Se avançarmos, atribua as tarefas considerando os perfis e desafios individuais.
+
+Se eu rejeitar uma alocação, aprenda com isso e ajuste sua sugestão na próxima rodada.
+
+
+
+Prompt 3: Lista de Pessoas com Habilidades e Aspectos Negativos
 Nome	Habilidades Principais	Áreas de Interesse	Estilo de Trabalho	Aspectos Negativos
 Lucas	Programação Backend, Segurança da Informação, DevOps	Sistemas escaláveis, Cibersegurança	Prefere trabalhar sozinho, focado em performance	Tem dificuldade em comunicação e colaboração, evita reuniões
 Mariana	UX/UI Design, Ilustração Digital, Criatividade	Branding, Identidade Visual	Gosta de criar e explorar novas ideias	Não gosta de prazos rígidos, pode se perder em detalhes
@@ -21,16 +63,21 @@ André	Desenvolvimento Mobile, Kotlin, Swift	Aplicativos, Experiência do Usuár
 Sofia	Psicologia Organizacional, Cultura Empresarial, RH	Gestão de Pessoas, Bem-estar no Trabalho	Observadora, trabalha para melhorar o ambiente corporativo	Evita conflitos, tem dificuldade em tomar decisões difíceis
 Rodrigo	Engenharia de Software, Arquitetura de Sistemas	Estruturas robustas, Escalabilidade	Gosta de planejar antes de executar	Gasta muito tempo planejando e demora a implementar soluções
 
-Prompt 3: Uma equipe de cinco pessoas precisa desenvolver um *aplicativo móvel* para um evento de tecnologia. O aplicativo deve permitir que os usuários vejam a programação do evento, recebam notificações e interajam com palestrantes via chat.
 
-### * Tarefas do Projeto:*
+
+Prompt 4: *🚀 Situação-Problema para a LIA: Distribuição Inteligente de Tarefas*
+
+### *Contexto:*
+Uma equipe de cinco pessoas precisa desenvolver um *aplicativo móvel* para um evento de tecnologia. O aplicativo deve permitir que os usuários vejam a programação do evento, recebam notificações e interajam com palestrantes via chat.
+
+### *🏗️ Tarefas do Projeto:*
 1. *Design da Interface (UI/UX)* – Criar wireframes e o layout do app.
 2. *Desenvolvimento Frontend* – Implementar a interface em React Native.
 3. *Desenvolvimento Backend* – Criar API para armazenar e recuperar informações do evento.
 4. *Gerenciamento de Banco de Dados* – Estruturar o banco de dados e garantir performance.
 5. *Testes e Qualidade* – Garantir que o app funciona corretamente sem bugs.
 
-### * Equipe e Autoavaliação:*  
+### *👥 Equipe e Autoavaliação:*  
 | Nome       | Pontos Fortes | Áreas de Melhoria | Preferência |
 |------------|--------------|------------------|-------------|
 | *Ana*    | UI/UX Design, Prototipagem | Programação Backend | Quer focar em Design |
@@ -39,7 +86,7 @@ Prompt 3: Uma equipe de cinco pessoas precisa desenvolver um *aplicativo móvel*
 | *Lucas*  | Frontend, React Native | Banco de Dados | Prefere trabalhar no app |
 | *Mariana* | Banco de Dados, Backend | Frontend | Gosta de organizar a estrutura dos dados |
 
-### * Desafio para a LIA*  
+### *📌 Desafio para a LIA*  
 *LIA, como você organizaria essa equipe para distribuir as tarefas da forma mais eficiente possível?*
 
 ### *🔹 Requisitos:*  
@@ -47,44 +94,48 @@ Prompt 3: Uma equipe de cinco pessoas precisa desenvolver um *aplicativo móvel*
 - Evitar sobrecarregar membros do time.  
 - Se alguém quiser desenvolver uma nova habilidade, encontrar uma forma de incluí-lo nessa área sem comprometer o projeto.  
 
- *Dica:* Se alguma pessoa tiver interesse em aprender algo novo, ela pode ser *co-responsável* por essa tarefa, mas com o suporte de alguém mais experiente
+💡 *Dica:* Se alguma pessoa tiver interesse em aprender algo novo, ela pode ser *co-responsável* por essa tarefa, mas com o suporte de alguém mais experiente!  
 
-Prompt: LIA, revise a estrutura que você criou para este projeto. Você seguiu a divisão correta entre Design, Desenvolvimento Técnico, Documentação, Liderança e Negócios? Há alguma área que deveria ser reorganizada?"
+Agora é com você, LIA! Como distribuiria as tarefas? 🚀
 
- Resposta Esperada:
+
+
+Prompt 5: LIA, revise a estrutura que você criou para este projeto. Você seguiu a divisão correta entre Design, Desenvolvimento Técnico, Documentação, Liderança e Negócios? Há alguma área que deveria ser reorganizada?"
+
+✅ Resposta Esperada:
 A LIA deve revisar sua própria categorização e propor ajustes se houver erros ou se alguma parte estiver mal definida.
 
- Verificando se a Delegação foi Bem-Feita
- Prompt:
+2️⃣ Verificando se a Delegação foi Bem-Feita
+📝 Prompt:
 "LIA, esta alocação parece não estar bem distribuída. Quem está sobrecarregado ou subutilizado? Você pode redistribuir as tarefas de forma mais equilibrada?"
 
- Resposta Esperada:
+✅ Resposta Esperada:
 A LIA deve verificar a carga de trabalho dos integrantes e redistribuir tarefas para evitar sobrecarga ou ineficiência.
 
-  Treinando a LIA para Aprender com o Feedback do Usuário
-  Prompt:
+3️⃣ Treinando a LIA para Aprender com o Feedback do Usuário
+📝 Prompt:
 "LIA, a equipe identificou que a pessoa que você escolheu para esta tarefa não tem as habilidades necessárias. Com base nisso, como você ajustaria sua escolha para otimizar a delegação?"
 
- Resposta Esperada:
+✅ Resposta Esperada:
 A LIA deve sugerir um novo responsável com melhor compatibilidade de habilidades, e lembrar disso para futuras alocações.
 
-  Avaliando a Capacidade de Ajuste da LIA
-  Prompt:
+4️⃣ Avaliando a Capacidade de Ajuste da LIA
+📝 Prompt:
 "LIA, um imprevisto ocorreu e um dos membros da equipe não pode mais executar sua tarefa. Como você realocaria essa responsabilidade sem prejudicar o fluxo do projeto?"
 
- Resposta Esperada:
+✅ Resposta Esperada:
 A LIA deve buscar alternativas realistas, redistribuindo tarefas para minimizar impactos.
 
-  Treinando a LIA para Justificar suas Escolhas
- Prompt:
+5️⃣ Treinando a LIA para Justificar suas Escolhas
+📝 Prompt:
 "LIA, explique por que você escolheu essa pessoa para essa tarefa. Quais fatores levaram a essa decisão?"
 
- Resposta Esperada:
+✅ Resposta Esperada:
 A LIA deve responder de forma lógica, considerando habilidades, experiência e histórico de sucesso nas tarefas.
 
-6️ Testando a Capacidade da LIA de Otimizar a Equipe
-  Prompt:
+6️⃣ Testando a Capacidade da LIA de Otimizar a Equipe
+📝 Prompt:
 "LIA, se o prazo para este projeto fosse reduzido pela metade, como você redistribuiria as tarefas para garantir que tudo fosse entregue a tempo?"
 
- Resposta Esperada:
+✅ Resposta Esperada:
 A LIA deve reestruturar a delegação, priorizando eficiência e possíveis paralelizações.
