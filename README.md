@@ -41,19 +41,19 @@
 ---
 
 ## **📚 Bases de Conhecimento**  
-Como Fazer Amigo e Infleunciar Pessoas - Dale Carnegie
-Avaliação Curricular e Paradigmas - Jesus Maria Sousa]
-Gestão de Pessoas - Idalberto Chiavenato]
-The Leadership Training - Lois B. Hart, Charlotte S. Waisman]
-Grandes Decisões Sobre Pessoas - Araoz, Caludio Fernandez]
-> [O Poder de Delegar - Donna M. Genett]
-> [Gestor pela primeira vez - Loren B. BelkerJim McCormick e Gary S. Topchik]
-> [Menos Achismo, Mais Dados - Gustavo Esteves]
-> [A estratégia do oceano azul - W. Chan Kim Renée Mauborgne]
-> [ENVIESADOS - Rian Dutra]
-> [Gestão de Alta Performance - Andres S. Grove]
-> [O Programador Pragmático - Andrew Hunt, David Thomas]
-> [Gente de resultados - Eduardo Ferraz
+- Como Fazer Amigo e Infleunciar Pessoas - Dale Carnegie
+- Avaliação Curricular e Paradigmas - Jesus Maria Sousa
+- Gestão de Pessoas - Idalberto Chiavenato
+- The Leadership Training - Lois B. Hart, Charlotte S. Waisman
+- Grandes Decisões Sobre Pessoas - Araoz, Caludio Fernandez
+- O Poder de Delegar - Donna M. Genett
+- Gestor pela primeira vez - Loren B. BelkerJim McCormick e Gary S. Topchik
+- Menos Achismo, Mais Dados - Gustavo Esteves
+- A estratégia do oceano azul - W. Chan Kim Renée Mauborgne
+- ENVIESADOS - Rian Dutra
+- Gestão de Alta Performance - Andres S. Grove
+- O Programador Pragmático - Andrew Hunt, David Thomas
+- Gente de resultados - Eduardo Ferraz
 
 ### **⚠️ Prompts**
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
