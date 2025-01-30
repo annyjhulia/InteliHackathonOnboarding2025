@@ -1,7 +1,7 @@
 # **🚀 Nome do Projeto**
 
 ### **🔗 Link do Agente GPT:**  
-> _LIA_
+> _<a href="link" >nome</a>_
 
 ---
 
@@ -75,10 +75,3 @@ Para a utilização da LIA, é necessário descrever rapidamente o projeto no qu
 - <a href="link" >nome</a>
 - <a href="link" >nome</a>
 - <a href="link" >nome</a>
-
-
-
-### **📖 Documentações Complementares:**  
-- 🔗 [Link 1](#)  
-- 🔗 [Link 2](#)  
-- 🔗 [Link 3](#)  
