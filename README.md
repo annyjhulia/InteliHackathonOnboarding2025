@@ -1,7 +1,7 @@
 # **🚀 Nome do Projeto**
 
 ### **🔗 Link do Agente GPT:**  
-> _<a href="link" >LIA</a>_
+> _<a href="https://chatgpt.com/g/g-679a9f09da048191bd9d767ada336d8d-lia" >LIA</a>_
 
 ---
 
