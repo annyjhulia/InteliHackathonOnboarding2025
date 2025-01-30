@@ -42,7 +42,12 @@
 ---
 
 ## **📚 Bases de Conhecimento**  
-> _[Indique aqui documentos utilizados para o treinamento especializado do agente, se houver]_
+> _[]_
+> _[]_
+> _[]_
+> _[]_
+> _[]_
+> _[]_
 ### **⚠️ Prompts**
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
@@ -55,8 +60,3 @@
 - 🔗 [Link 1](#)  
 - 🔗 [Link 2](#)  
 - 🔗 [Link 3](#)  
-
-
-Sugestão: Crie uma pasta chamada Base de Conhecimentos no repositório e adicione todos os conteúdos relevantes e utilizados dentro dessa pasta. Aponte os links para os arquivos nela.
-
-
