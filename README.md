@@ -1,7 +1,7 @@
 # **🚀 Nome do Projeto**
 
 ### **🔗 Link do Agente GPT:**  
-> _<a href="link" >nome</a>_
+> _<a href="link" >LIA</a>_
 
 ---
 
